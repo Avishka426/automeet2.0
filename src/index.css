@@ -2,12 +2,71 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    sans-serif;  background-color: red;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.home{
+  background-color: #EBEBEB;
+}
+
+.nav-name a{
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.btn1{
+  background-color: #3B3BD7 !important;
+  border-color: #3B3BD7 !important;
+  font-weight: 900;
+}
+
+.btn2{
+  background-color: #323268 !important;
+  border-color: #323268 !important;
+  color: white !important;
+}
+
+.navbar-brand img{
+  width: 60%;
+  height: 60%;
+}
+
+.btn3 {
+  border-color: none !important; /* Change border to orange */
+  color: #000 !important; /* Change text color */
+  font-weight: 600 !important;
+  padding: 10px 20px;
+  border-radius: 25px;
+  transition: all 0.3s ease-in-out;
+  border-color: #EBEBEB !important;
+}
+
+.btn3:hover {
+  background-color: #3B3BD7 !important;
+  color: white !important;
+}
+
+/* Styling for btn4 (Get Started - Primary Button) */
+.btn4 {
+  background-color: #3B3BD7 !important; /* Change to green */
+  border-color: #3B3BD7 !important;
+  color: white !important;
+  font-weight: 600 !important;
+  padding: 10px 20px;
+  border-radius: 25px;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn4:hover {
+  background-color: #218838 !important; /* Darker green on hover */
+}
+
+.topic-content h2{
+  font-weight: 600;
+  font-size: 2.5rem;
+}
+
+.topic-content p{
+  font-weight: 500;
+  font-size: 1.3rem;
 }
