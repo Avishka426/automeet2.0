@@ -26,7 +26,7 @@ const HomePage = () => {
       <div className="container mt-2">
         <div className="row ">
           {/* Left Section */}
-          <div className="col-md-6 mt-5 topic-content">
+          <div className="col-md-6 mt-5  topic-content">
             <h2 className="mt-5">Meetings That Run Themselves</h2>
             <p className="mt-4">
             Tired of managing calendars, links, and notes? 
