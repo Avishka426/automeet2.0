@@ -6,7 +6,10 @@ body {
 }
 
 .home{
-  background-color: #EBEBEB;
+  background-color: #f0f0f0;
+  padding: 1.5%;
+  font-family: sans-serif;
+
 }
 
 .nav-name a{
@@ -42,7 +45,7 @@ body {
 }
 
 .btn3:hover {
-  background-color: #3B3BD7 !important;
+  background-color: #6262ff !important;
   color: white !important;
 }
 
@@ -58,7 +61,7 @@ body {
 }
 
 .btn4:hover {
-  background-color: #218838 !important; /* Darker green on hover */
+  background-color: #0909a1 !important; /* Darker green on hover */
 }
 
 .topic-content h2{
