@@ -2,6 +2,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./index.css";
 
+
 const HomePage = () => {
   return <>
     <div className="home">
@@ -130,13 +131,117 @@ const HomePage = () => {
         </div>
       </section>
 
-    </div>
+
+      <section className="section_5">
+        <div className="section_5_top">
+          <div className="left_section5">
+            <h2>What holds valuable items with intereset</h2>
+          </div>
+          <div className="right_section5">
+            <h4>something instead of nothing featuers to please your needs some stuff to say that we.</h4>
+          </div>
+        </div>
+
+
+        <div className="section_5_bottom">
+          <div className="section_5_bottom_inside">
+            <div className="feature-card">
+              <h2>Instant Meeting Links</h2>
+              <img src="/images/feature1.png" alt="feature1_image" />
+              <p>Generate and share meeting links with a single click.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Smart <br />Integrations </h2>
+              <img src="/images/feature2.png" alt="feature2_image" />
+              <p>Connect email, calendars, and messaging apps effortlessly.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Seamless <br />Scheduling</h2>
+              <img src="/images/feature3.png" alt="feature3_image" />
+              <p>AutoMeet syncs calendars to find the perfect time, no hassle.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Automated <br />Notes</h2>
+              <img src="/images/feature4.png" alt="feature4_image" />
+              <p>Get AI-powered notes and summaries automatically.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Smart <br />Reminders</h2>
+              <img src="/images/feature5.png" alt="feature5_image" />
+              <p>Stay on track with automatic reminders and follow-ups.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Instant Meeting Links</h2>
+              <img src="/images/feature1.png" alt="feature1_image" />
+              <p>Generate and share meeting links with a single click.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Smart <br />Integrations </h2>
+              <img src="/images/feature2.png" alt="feature2_image" />
+              <p>Connect email, calendars, and messaging apps effortlessly.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Seamless <br />Scheduling</h2>
+              <img src="/images/feature3.png" alt="feature3_image" />
+              <p>AutoMeet syncs calendars to find the perfect time, no hassle.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Automated <br />Notes</h2>
+              <img src="/images/feature4.png" alt="feature4_image" />
+              <p>Get AI-powered notes and summaries automatically.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Smart <br />Reminders</h2>
+              <img src="/images/feature5.png" alt="feature5_image" />
+              <p>Stay on track with automatic reminders and follow-ups.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Instant Meeting Links</h2>
+              <img src="/images/feature1.png" alt="feature1_image" />
+              <p>Generate and share meeting links with a single click.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Smart <br />Integrations </h2>
+              <img src="/images/feature2.png" alt="feature2_image" />
+              <p>Connect email, calendars, and messaging apps effortlessly.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Seamless <br />Scheduling</h2>
+              <img src="/images/feature3.png" alt="feature3_image" />
+              <p>AutoMeet syncs calendars to find the perfect time, no hassle.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Automated <br />Notes</h2>
+              <img src="/images/feature4.png" alt="feature4_image" />
+              <p>Get AI-powered notes and summaries automatically.</p>
+            </div>
+
+            <div className="feature-card">
+              <h2>Smart <br />Reminders</h2>
+              <img src="/images/feature5.png" alt="feature5_image" />
+              <p>Stay on track with automatic reminders and follow-ups.</p>
+            </div>
+
+          </div>
+        </div>
+      </section>
 
 
 
-
-
-
+    </div >
   </>;
 };
 
